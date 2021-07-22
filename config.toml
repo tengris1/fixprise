@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "fixprise"
+theme = "minos"
+
+[menu]
+
+[[menu.main]]
+	identiifier = "about"
+	name = "About"
+	url = "/about/"
+	weight = -110
