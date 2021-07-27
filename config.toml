@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://fixprise.onrender.com"
 languageCode = "en-us"
 title = "fixprise"
 theme = "minos"
