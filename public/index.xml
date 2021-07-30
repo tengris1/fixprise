@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fixprise</title>
+    <link>http://example.org/</link>
+    <description>Recent content on fixprise</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Jul 2021 17:38:25 +0300</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sun, 18 Jul 2021 17:40:24 +0300</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Меня зовут Олеся, я 100% отзывчивая девушка из Рязани.</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://example.org/post/hello-world/</link>
+      <pubDate>Sun, 18 Jul 2021 17:38:25 +0300</pubDate>
+      
+      <guid>http://example.org/post/hello-world/</guid>
+      <description>Добро пожаловать! Это первая статья на моём новом персональном блоге, написанном на Hugo. Уверена, вы никогда меня не забудете.</description>
+    </item>
+    
+  </channel>
+</rss>
